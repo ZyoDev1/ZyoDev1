@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<¡Hola! 👋
+¡Hola! 👋
 
 tengo 32 años y actualmente trabajo como Responsable de Administración en una multinacional.
 
