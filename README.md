@@ -1,9 +1,12 @@
-## Hi there 👋
+##¡Hola! 👋
+Soy Zyo, un apasionado Analista de Datos con experiencia en gestión administrativa.
 
-¡Hola! 👋
+Actualmente, trabajo como Responsable de Administración en una multinacional, pero mi verdadera pasión está en el análisis de datos y su aplicación en la toma de decisiones estratégicas.
 
-tengo 32 años y actualmente trabajo como Responsable de Administración en una multinacional.
+📊 Me especializo en SQL, Python, Excel y Power BI para transformar datos en insights valiosos.
 
-Aunque mi trayectoria profesional ha estado centrada en la gestión administrativa, recientemente he decidido adentrarme en el fascinante mundo del desarrollo front-end.
+⚽ Estoy muy interesado en el data analytics aplicado al fútbol, explorando cómo los datos pueden mejorar el rendimiento y la gestión deportiva.
 
-Conectemos Si compartes mi interés por el desarrollo web o simplemente quieres conectar, no dudes en seguirme y colaborar en algún proyecto. ¡Estoy emocionado por aprender y crecer en esta comunidad!
+🚀 En este perfil compartiré mis proyectos de análisis de datos, limpieza y visualización.
+
+🤝 ¡Conectemos! Si compartes mi interés por los datos y la analítica, no dudes en seguirme y colaborar en algún proyecto.
